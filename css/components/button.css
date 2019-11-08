@@ -1,0 +1,15 @@
+.btn-pink{
+	display: inline-block;
+	background-color: #B0E0E6;
+	padding: 10px 20px;
+	border-radius: 23px;
+	color: #EFACAC;
+	font-family: Righteous;
+	font-style: bolder;
+	margin: 30px; 
+}
+
+.btn-pink:hover{
+	display: inline-block;
+	background-color: #EFACAC;
+	color: #B0E0E6;

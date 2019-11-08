@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Righteous&display=swap");
+@import url("https://kit.fontawesome.com/7e84ae8bff.js" crossorigin="anonymous");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:400,600,700&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family:"Comfortaa";
+	color: #AA847C;
+	font-size:12px;
+	margin:20px;
+	
+}
+h1{
+	font-family: 'Righteous', cursive;
+	color: #EFACAC;
+	font-size: 80px;
+	letter-spacing: 20px;
+	font-style: bolder;
+	margin: 30px;
+
+
+}
+h2,h3{
+	font-family:"Comfortaa";
+	color: #AA847C;
+	font-size: 20px;
+	font-style: lighter;
+	margin: 30px;
+}
+
+a{
+	text-decoration: none;
+	margin: 30px 0px;
+}
